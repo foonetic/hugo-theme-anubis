@@ -196,7 +196,7 @@ header a {
 }
 
 header h1 {
-    font-size: 1em;
+    font-size: 1.7em;
     margin-top: 1em;
     margin-bottom: 0;
     font-weight: normal;
@@ -342,7 +342,7 @@ article:not(:last-of-type) {
 }
 
 article header h1 {
-    font-size: 1.35em;
+    font-size: 1.55em;
     line-height: 1.1em;
     margin-bottom: 0.5em;
     font-weight: 600;
@@ -617,7 +617,7 @@ article figcaption {
     border-top: thin solid var(--hr-color);
     padding-top: 1.5em;
     margin-top: 3em;
-    font-size: 16px;
+    font-size: .7em;
 }
 
 .common-footer-bottom {
